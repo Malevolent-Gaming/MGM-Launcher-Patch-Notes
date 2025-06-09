@@ -20,4 +20,4 @@ This launcher will take care of installing and updating all of our MMO server cl
 
 
 ### A HUGE thank you to Mannax for spending a TON of time with me working on this launcher. Please note, if anything breaks, its his fault!
-If you DO have an issue with the launcher, be sure to submit a ticket on our ### Launcher-Support channel on Discord!
+If you DO have an issue with the launcher, be sure to submit a ticket on our **Launcher-Support** channel on Discord!
