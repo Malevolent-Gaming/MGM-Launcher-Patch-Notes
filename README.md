@@ -1,6 +1,10 @@
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/34a30ba1-1adb-4fdf-bd55-97b0fb5882a3"/>
-</p!>
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/34a30ba1-1adb-4fdf-bd55-97b0fb5882a3"
+    alt="Launcher screenshot"
+    width="300"
+  />
+</p>
 
 # Malevolent Gaming News
 
