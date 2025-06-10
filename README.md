@@ -16,7 +16,7 @@ This launcher will take care of installing and updating all of our MMO server cl
 - See the server status in the top right corner
 - Change your client settings, install path and repair by selecting the **"Settings"** button on each game page
 - View the latest update notes directly on the launcher for each game
-- Stay up to day with **Malevolent News** on the main page
+- Stay up to date with **Malevolent News** on the main page
 
 
 ### A HUGE thank you to Mannax for spending a TON of time with me working on this launcher. Please note, if anything breaks, its his fault!
