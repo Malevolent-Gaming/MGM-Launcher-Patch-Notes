@@ -10,7 +10,7 @@
 
 ## Launcher is officially "Launched!" - Pun intended
 ### We have officially finshed our multi game launcher!
-This launcher will take care of installing and updating all of our MMO server clients and future updates.
+This launcher will take care of installing and updating all of our MMO server clients
 
 ## Launcher Features
 - See the server status in the top right corner
