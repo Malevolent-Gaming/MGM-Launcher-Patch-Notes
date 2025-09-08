@@ -8,6 +8,15 @@
 
 # Malevolent Gaming News
 
+## Launcher Update - 2.2.6
+### Added
+- Custom message dialog boxes to replace the windows based messages.
+### Fixed
+- Cleaner download manager to handle each game separately.
+- Error in resetting directory after failing to correctly set directory, will now default to correct local folder.
+- Permissions issues with C: installations.
+- Version number displaying incorrect version.
+
 ## Launcher is officially "Launched!" - Pun intended
 ### We have officially finshed our multi game launcher!
 This launcher will take care of installing and updating all of our MMO server clients
