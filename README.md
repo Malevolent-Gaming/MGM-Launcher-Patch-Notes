@@ -8,6 +8,28 @@
 
 # Malevolent Gaming News
 
+## Launcher Update - 3.1.5
+## New Major Launcher Update!
+We've redesigned the launcher layout and graphics!
+### New Pages
+- Added City of Heroes page
+- Added EverQuest page
+- Added Legends of Aria page
+### Star Wars Galaxies Page
+- Added SWGaide.com shortcut button
+- Added website link button
+### World of Warcraft Page
+- Added Armory link button
+- Added website link button
+
+### Fixed
+- Launcher running on a 4k resolution desktop will no longer crash when trying to move the launcher window.
+
+### Coming soon
+- Login features are not finished yet, but soon you will be able to login and create accounts via the launcher. 
+
+---------------------------------------------------------------------------
+
 ## Launcher Update - 2.2.6
 ### Added
 - Custom message dialog boxes to replace the windows based messages.
